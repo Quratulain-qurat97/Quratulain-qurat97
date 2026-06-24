@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Quratulain Siddiqui 👋
 
-<!--
-**Quratulain-qurat97/Quratulain-qurat97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and Power BI.
 
-Here are some ideas to get you started:
+## 🛠 Tools & Skills
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Portfolio Projects
+- [IBM HR Attrition Analytics](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics)
+- [Olist E-Commerce Analytics](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics)
+- [Superstore Retail Analysis](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/quratulain-siddiqui/)
+
+---
+
+![Quratulain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quratulain-qurat97&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulain-qurat97&layout=compact&theme=default)
