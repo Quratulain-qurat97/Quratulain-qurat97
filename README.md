@@ -17,5 +17,4 @@ A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and P
 [LinkedIn](https://www.linkedin.com/in/quratulain-siddiqui/)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=Quratulain-qurat97&show_icons=true&theme=radical" alt="Quratulain-qurat97's stats" />
+![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)
