@@ -18,4 +18,4 @@ A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and P
 
 ---
 
-![Quratulain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quratulain-qurat97&show_icons=true)
+![Quratulain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quratulain-qurat97&show_icons=true&theme=radical)
