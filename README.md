@@ -6,10 +6,10 @@ A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and P
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.IO/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 Portfolio Projects
-- [Microsoft-Financial-Sample-Analytics](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics)
+-- [Microsoft Financial Sample Analytics](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics) — Global sales analysis across 5 countries using MySQL & Power BI. Enterprise segment loses money in all 5 markets.
 - [IBM HR Attrition Analytics](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics)
 - [Olist E-Commerce Analytics](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics)
 - [Superstore Retail Analysis](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
