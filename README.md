@@ -9,6 +9,7 @@ A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and P
 ![DAX](https://img.shields.IO/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 Portfolio Projects
+- [Microsoft-Financial-Sample-Analytics](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics)
 - [IBM HR Attrition Analytics](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics)
 - [Olist E-Commerce Analytics](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics)
 - [Superstore Retail Analysis](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
