@@ -9,6 +9,7 @@ A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and P
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 Portfolio Projects
+- [SaaS Subscription & Churn Analytics](https://github.com/Quratulain-qurat97/SaaS-Subscription-Churn-Analytics) — B2B SaaS churn analysis across 5 relational MySQL tables with 13 SQL queries. Enterprise tier drives 78.6% of MRR lost despite identical churn rates across all plan tiers.
 - [Microsoft Financial Sample Analytics](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics) — Global sales analysis across 5 countries, 6 products & 5 segments using MySQL & Power BI. Enterprise is the only loss-making segment at -3.1% margin despite $20M revenue.
 
 - [IBM HR Attrition Analytics](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics) — HR attrition analysis of 1,470 employees using MySQL & Power BI. Overtime workers leave at 3x the rate of non-overtime staff.
