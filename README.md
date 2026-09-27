@@ -1,4 +1,4 @@
-# Hi, I'm Qurat Ul Ain Siddiqui 👋
+# Hi, I'm Qurat Ul Ain Tariq 👋
 
 A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and Power BI.
 
