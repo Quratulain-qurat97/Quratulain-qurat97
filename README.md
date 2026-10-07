@@ -99,7 +99,7 @@ Analyzed employee attrition across **1,470 employees** and identified a major ov
 
 **MySQL · SQL · Power BI · Python**
 
-Analyzed Brazilian e-commerce data across **400,000+ rows and 7 relational tables**. The project is being extended with Python/Pandas analysis to deepen data cleaning, exploratory analysis, and delivery-time investigation.
+Analyzed Brazilian e-commerce data across **400,000+ rows and 7 relational tables**. Northern states average 29-day delivery vs 12-day national average.
 
 [View project →](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics)
 
