@@ -97,7 +97,7 @@ Analyzed employee attrition across **1,470 employees** and identified a major ov
 
 ### Olist E-Commerce Analytics
 
-**MySQL · SQL · Power BI · Python**
+**MySQL · SQL · Power BI**
 
 Analyzed Brazilian e-commerce data across **400,000+ rows and 7 relational tables**. Northern states average 29-day delivery vs 12-day national average.
 
