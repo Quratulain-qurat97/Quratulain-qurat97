@@ -184,7 +184,7 @@ I am building toward a role where strong data analysis and business understandin
 
 <p>
   <a href="https://github.com/Quratulain-qurat97">GitHub</a> ·
-  <a href="https://www.upwork.com/freelancers/quratulain0705">Upwork</a>
+  <a href="https://www.upwork.com/freelancers/quratulain0705">Upwork</a> ·
   <a href="https://www.fiverr.com/users/quratulain0097">Fiverr</a>
 </p>
 
