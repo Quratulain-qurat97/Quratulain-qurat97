@@ -175,7 +175,7 @@ I am building toward a role where strong data analysis and business understandin
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Quratulain-qurat97/Quratulain-qurat97/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Quratulain-qurat97/Quratulain-qurat97/output/github-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
