@@ -1,25 +1,196 @@
-# Hi, I'm Qurat Ul Ain Tariq 👋
+# Quratulain UI Ain Tariq
 
-A self-taught data analyst based in Karachi, Pakistan, specializing in SQL and Power BI.
+### Data Analyst | SQL | Power BI | Excel | Python
 
-## 🛠 Tools & Skills
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+I turn raw business data into clear analysis, dashboards, and actionable insights.
 
-## 📊 Portfolio Projects
-- [SaaS Subscription & Churn Analytics](https://github.com/Quratulain-qurat97/SaaS-Subscription-Churn-Analytics) — B2B SaaS churn analysis across 5 relational MySQL tables with 13 SQL queries. Enterprise tier drives 78.6% of MRR lost despite identical churn rates across all plan tiers.
-- [Microsoft Financial Sample Analytics](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics) — Global sales analysis across 5 countries, 6 products & 5 segments using MySQL & Power BI. Enterprise is the only loss-making segment at -3.1% margin despite $20M revenue.
+My current focus is **data analytics with Python** and building toward **AI-powered analytics and applications**.
 
-- [IBM HR Attrition Analytics](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics) — HR attrition analysis of 1,470 employees using MySQL & Power BI. Overtime workers leave at 3x the rate of non-overtime staff.
+---
 
-- [Olist E-Commerce Analytics](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics) — Brazilian e-commerce analysis of 400,000+ rows across 7 MySQL tables. Northern states average 29-day delivery vs 12-day national average.
+## About
 
-- [Superstore Retail Analysis](https://github.com/Quratulain-qurat97/superstore-retail-analysis) — Retail analysis of 9,994 transactions using MySQL & Power BI. Aggressive discounting destroyed ~$155K in profit across all regions.
+- Data analytics focused on business problems, not just visualizations
+- Experienced with relational data, SQL analysis, Power BI dashboards, and Excel-based analysis
+- Recently completed **IBM's Python for Data Science, AI & Development** course
+- Building practical projects that combine data cleaning, analysis, visualization, and business insight
+- Currently expanding into **Generative AI, APIs, and AI-enabled analytics**
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quratulain-siddiqui)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quratulain-qurat97)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/quratulain0097)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qurat33002@gmail.com)
+---
+
+## Technical Stack
+
+### Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=powerbi&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-1F4E79?style=flat-square&logo=powerbi&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-334155?style=flat-square" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Data_Visualization-334155?style=flat-square" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Dashboard_Development-334155?style=flat-square" alt="Dashboard Development" />
+</p>
+
+### Programming & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/API_Data-334155?style=flat-square" alt="API Data" />
+</p>
+
+### Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## Featured Projects
+
+### SaaS Subscription & Churn Analytics
+
+**MySQL · SQL · Power BI**
+
+Analyzed B2B SaaS churn across **5 relational MySQL tables** and 13 SQL queries. Identified that the **Enterprise tier accounted for 78.6% of MRR lost**, despite identical churn rates across plan tiers.
+
+[View project →](https://github.com/Quratulain-qurat97/SaaS-Subscription-Churn-Analytics)
+
+---
+
+### Microsoft Financial Sample Analytics
+
+**MySQL · SQL · Power BI**
+
+Analyzed global sales across **5 countries, 6 products, and 5 segments**. Found that Enterprise was the only loss-making segment, with a **-3.1% margin despite $20M in revenue**.
+
+[View project →](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics)
+
+---
+
+### IBM HR Attrition Analytics
+
+**MySQL · SQL · Power BI**
+
+Analyzed employee attrition across **1,470 employees** and identified a major overtime-related retention pattern: overtime workers leave at approximately **3× the rate** of non-overtime workers.
+
+[View project →](https://github.com/Quratulain-qurat97/IBM-HR-Attrition-Analytics)
+
+---
+
+### Olist E-Commerce Analytics
+
+**MySQL · SQL · Power BI · Python**
+
+Analyzed Brazilian e-commerce data across **400,000+ rows and 7 relational tables**. The project is being extended with Python/Pandas analysis to deepen data cleaning, exploratory analysis, and delivery-time investigation.
+
+[View project →](https://github.com/Quratulain-qurat97/Olist-ECommerce-Analytics)
+
+---
+
+### Superstore Retail Analysis
+
+**MySQL · SQL · Power BI**
+
+Analyzed **9,994 retail transactions** and identified how aggressive discounting affected profitability, contributing to approximately **$155K in lost profit across regions**.
+
+[View project →](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
+
+---
+
+## Python in Practice
+
+Recently completed:
+
+**IBM — Python for Data Science, AI & Development**
+
+Current Python work focuses on applying the fundamentals to real data rather than keeping Python as a standalone course skill.
+
+Examples include:
+
+- Pandas DataFrames
+- Data cleaning and transformation
+- Date/time handling
+- NumPy-based analysis
+- Matplotlib visualization
+- API data retrieval
+- Grouping and aggregation
+- Exploratory data analysis
+
+---
+
+## Current Direction
+
+```text
+Data Analytics
+      │
+      ├── SQL + MySQL
+      ├── Excel + Power Query
+      ├── Power BI + DAX
+      └── Python + Pandas
+              │
+              ▼
+       AI-Enabled Analytics
+              │
+              ├── Generative AI
+              ├── APIs
+              ├── Data Applications
+              └── AI-powered workflows
+              │
+              ▼
+          AI Engineering
+```
+
+I am building toward a role where strong data analysis and business understanding are combined with modern AI application development.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quratulain-qurat97&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quratulain-qurat97&hide_border=true" alt="GitHub streak" />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Quratulain-qurat97/Quratulain-qurat97/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/Quratulain-qurat97">GitHub</a> ·
+  <a href="https://www.upwork.com/freelancers/quratulain0705">Upwork</a>
+</p>
+
+For professional inquiries, reach out through the contact information listed on my GitHub or professional profiles.
+
+---
+
+<p align="center">
+  <sub>Building practical analytics projects and gradually expanding into AI-powered data applications.</sub>
+</p>
