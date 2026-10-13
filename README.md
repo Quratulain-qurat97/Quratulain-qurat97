@@ -77,9 +77,9 @@ Analyzed B2B SaaS churn across **5 relational MySQL tables** and 13 SQL queries.
 
 ### Microsoft Financial Sample Analytics
 
-**MySQL · SQL · Power BI**
+**MySQL · Power BI · Python (pandas)**
 
-Analyzed global sales across **5 countries, 6 products, and 5 segments**. Found that Enterprise was the only loss-making segment, with a **-3.1% margin despite $20M in revenue**.
+Analyzed sales across **5 countries, 6 products and 5 segments**. Enterprise is the only loss-making segment, at a **-3.1% margin on $19.6M of revenue**. Re-verified the dashboard in pandas and fixed the errors found, including a cost chart that summed a unit price and a hardcoded constant in a ratio measure.
 
 [View project →](https://github.com/Quratulain-qurat97/Microsoft-Financial-Sample-Analytics)
 
