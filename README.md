@@ -107,11 +107,11 @@ Analyzed Brazilian e-commerce data across **400,000+ rows and 7 relational table
 
 ### Superstore Retail Analysis
 
-**MySQL · SQL · Power BI**
+**Python · Pandas · MySQL · SQL**
 
-Analyzed **9,994 retail transactions** and identified how aggressive discounting affected profitability, contributing to approximately **$155K in lost profit across regions**.
+Analyzed **9,994 retail records** to investigate sales performance, regional trends, customer segments, and profitability. Identified the impact of discounting on profit, including approximately **$155K in profit loss associated with discounting**.
 
-[View project →](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
+[View Project →](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
 
 ---
 
