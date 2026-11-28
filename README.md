@@ -115,6 +115,20 @@ Analyzed **9,994 retail records** to investigate sales performance, regional tre
 
 ---
 
+### Superstore Retail Analytics Dashboard
+
+**React · JavaScript · Recharts · CSS · Data Analytics**
+
+Built a responsive, six-page interactive dashboard to explore **9,994 retail transactions** across sales, regional performance, products, customers, and profitability.
+
+Features interactive filters, dynamic KPIs, data visualizations, responsive layouts, and optimized dataset loading. Independently validated the dashboard calculations against the source dataset.
+
+- [Live Dashboard](https://quratulain-qurat97.github.io/superstore-dashboard/)
+- [Dashboard Source Code](https://github.com/Quratulain-qurat97/superstore-dashboard)
+- [Related Data Analytics Project](https://github.com/Quratulain-qurat97/superstore-retail-analysis)
+
+---
+
 ## Python in Practice
 
 Recently completed:
